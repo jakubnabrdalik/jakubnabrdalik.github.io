@@ -11,7 +11,7 @@ Considering my limited expertise in the matter (the percent of the books on the 
 For example, Josh Long latest book *“Reactive Spring”* is a very well written book, but:
 
 1. It’s not a book to learn reactive programming in Reactor from (Reactor docs are much more detailed and just as well written)
-1. It’s not a book to learn hot to design reactive systems (that would be *Reactive Design Patterns* by Dr Roland Kuhn)
+1. It’s not a book to learn how to design reactive systems (that would be *Reactive Design Patterns* by Dr Roland Kuhn)
 
 It’s a book for people who need an overview of how Spring ecosystem of libraries support reactive programming, without any prior knowledge. And it excels at that. But that’s a very specific group. 
 
