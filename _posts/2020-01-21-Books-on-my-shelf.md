@@ -6,12 +6,12 @@ title: Books on my shelf
 After [yesterday's talk](https://www.youtube.com/watch?v=AaGxEn8fGJY) (in PL)  I got a lot of questions about IT books on architecture. I thought I’d make a list but there are such lists out there already from people with much more experience and who read much more than I do. Here is an [example](
 https://architectelevator.com/architecture/architect-bookshelf/).
 
-Considering my limited expertise in the matter (the percent of the books on the market I have read) I decided not to do a recommendation list, but instead to write a few words on a few bookss and the reasons why. You see, a good book is not something everyone should read, each has its intended target, and what works for me might not work for you. 
+Considering my limited expertise in the matter (the percent of the books on the market I have read) I decided not to do a recommendation list, but instead to write a few words on a few books and the reasons why. You see, a good book is not something everyone should read, each has its intended target, and what works for me might not work for you. 
 
 For example, Josh Long latest book *“Reactive Spring”* is a very well written book, but:
 
 1. It’s not a book to learn reactive programming in Reactor from (Reactor docs are much more detailed and just as well written)
-1. It’s not a book to learn hot to design reactive systems (that would be Reactive Design Patterns by Dr Roland Kuhn)
+1. It’s not a book to learn hot to design reactive systems (that would be *Reactive Design Patterns* by Dr Roland Kuhn)
 
 It’s a book for people who need an overview of how Spring ecosystem of libraries support reactive programming, without any prior knowledge. And it excels at that. But that’s a very specific group. 
 
