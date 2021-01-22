@@ -7,7 +7,7 @@ How and why I have implemented a Peer-2-Peer salary review in a corporation: a c
 
 ## Goal: optimize for fairness
 
-A CEO raised his company's minimum wage to £45,000 a year, and some employees quit because of it [link]. Do you know why? Because the hard working, highly educated staff were pissed off that someone who slacks off all the time and had not invested much in their own development, earns the same money.
+A CEO raised his company's minimum wage to £45,000 a year, and some employees quit because of it [link](https://www.businessinsider.com/dan-price-gravity-payments-employees-leave-2015-7?IR=T). Do you know why? Because the hard working, highly educated staff were pissed off that someone who slacks off all the time and had not invested much in their own development, earns the same money.
 
 An interesting thing about salaries and having people happy, is that the absolute amounts are much less important than the relative fairness of the system. And that’s a bit counter-intuitive.
 
@@ -73,7 +73,7 @@ Results? What results? Results of a company. i.e.: money, brings us back to mark
 
 How about evaluating IMPACT a given individual has on the company? Would that make sense? If we review the impact, and connect it with the money, the system should be fair.
 
-You work hard every day to move us further? You learn at home as well, because you are passionate? And you code works in production? Perfect. Money for you, good sir!
+You work hard every day to move us further? You learn at home as well, because you are passionate? And your code works in production? Perfect. Money for you, good sir!
 
 You jerk off all day, but have brilliant ideas in the evening, that you implement in the morning, that solve a lot of problems for everyone and bring us closer to where we want to be? Why not, jerk off again, it’s fine with me. Just use the bathroom, please. And here, wipe your dick with those euros.
 
@@ -216,13 +216,13 @@ Some will argue, that money is not a motivator, after certain amount. True, that
 
 So what can we do in a corporation, where we are not allowed to publish salaries?
 
-While we cannot publish salaries, we can publish anchor points. Lots of job comparison sites (nofluffjobs.com for example) require a salary range. If you clustering ended up with 5 different clusters, you can probably come up with some names for those levels (junior/mid/senior developer, architect, senior architect, principal senior executive architect, etc.). Now all you need to do, is publish those job offers, with the money (either as a salary range or fixed), and people can compare their own situation to the whole picture.
+While we cannot publish salaries, we can publish anchor points. Lots of job comparison sites (nofluffjobs.com for example) require a salary range. If your clustering ended up with 5 different clusters, you can probably come up with some names for those levels (junior/mid/senior developer, architect, senior architect, principal senior executive architect, etc.). Now all you need to do, is publish those job offers, with the money (either as a salary range or fixed), and people can compare their own situation to the whole picture.
 
 Make a strong commitment, to always keep salaries together linked with job titles and linked with the potential impact. Promise to keep it fair for the people. And now, because titles are public, everybody knows what the salary of everyone else is.
 
 More or less. More if you have only one number for a cluster, less if it’s a range. Still, people will be able to see the whole picture, and tell you if they think it’s fair.
 
-To make the commitment strong, I had to fire someone, who had much more money that their position (he was a much better negotiator than an employee), and rise the salaries for all the bad negotiators. If negotiation skills are valuable to you, make them another skill group, or add them to Traits.
+To make the commitment strong, I had to fire someone, who had much more money than their position (he was a much better negotiator than an employee), and rise the salaries for all the bad negotiators. If negotiation skills are valuable to you, make them another skill group, or add them to Traits.
 
 ## Benefits
 
