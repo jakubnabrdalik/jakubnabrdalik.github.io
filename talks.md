@@ -180,7 +180,7 @@ Together with my collegues, I organized microhackaton, a hackathon about microse
 
 Together with Tomasz Szymański and Marcin Grzejszczak, I've created Warsaw Groovy User Group, with regular meetings.
 
-## 2013
+### 2013
 
 *Gitkata* - I lead 4 workshops about git, during a full day mini conference Gitkata 2 and 5 during Gitkata
 
