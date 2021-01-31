@@ -4,9 +4,11 @@ title: Talks
 permalink: /talks/
 ---
 
-Apart from regular work, I go to a lot of conferences, meetings, hackathons, and alike, for inspiration and knowledge. At some point I started giving talks and leading workshops myself. Each talk requires a lot of research, even if I use that technology everyday at work, so it helps me to get better, while helping others as well. Pure win-win situation. 
+Apart from regular work, I go to a lot of conferences, meetings, hackathons, and alike, for inspiration and knowledge. At some point I started giving talks and leading workshops myself. Each talk requires a lot of research, so it helps me to get better, while helping others as well. Pure win-win situation. 
 
-Below you will find some of them.
+So far I've given 103 talks. Not bad for a hobby. Below you will find some of them.
+
+--------
 
 ### With a little help from my friends: architecture in a group of anarchists
 
@@ -69,6 +71,8 @@ Because your really need it
 ### eXtreme Programming for beginners
 
 [Video@ABE](https://www.youtube.com/watch?v=RUlsNnzFWy8&t=1504s)
+
+--------
 
 ## Activity log
 
@@ -156,13 +160,13 @@ I helped to organize Gr8day Warsaw, a conference on all things Groovy
 
 *Game of throneware, or how not to get killed when a developer becomes a manager* - Given talk at Latvian Software Craftsmen group in Riga
 
-I helped organize Agile Development Day during Global day of coderetreat , mentored developers on TDD, and gave the opening presentation
+I helped organize Agile Development Day during Global day of coderetreat, mentored developers on TDD, and gave the opening presentation
 
 I led a Spring Cloud & Boot workshop (3h) at Codepot.pl conference in Warsaw
 
 I helped shape the agenda of JDD Conference in Cracow as part of the program committee
 
-I was in the program committee for DEVOXX PL , one of the biggest Java conferences in central Europe
+I was in the program committee for DEVOXX PL, one of the biggest Java conferences in central Europe
 
 ### 2014
 
