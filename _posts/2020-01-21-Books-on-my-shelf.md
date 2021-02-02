@@ -34,7 +34,7 @@ But it may also be boring, because it goes over all the basics, and there’s no
 
 ## R U kidding? Only 3 books?
 
-Yeah, I need to get back to work. I can't spend more time today to describe when or if you might be the person that will needs a specirfic book. So even though I told you there are much better sources of a recommendations, here’s a list of books on my “Architecture” shelf at the moment
+Yeah, I need to get back to work. I can't spend more time today to describe when or if you might be the person that will needs a specific book. So even though I told you there are much better sources of a recommendations, here’s a list of books on my “Architecture” shelf at the moment
 
 1. Domain-Driven Design: The First 15 Years: Essays from the DDD Community
 1. Thinking in Promises (Burgess)
