@@ -20,7 +20,7 @@ So if you already have an Architecture Guild (see "Common mistakes" talk), how d
 
 Since I help enterprises move to microservice based architecture, I've noticed some common mistakes and I've learned how to fix them
 
-[Slides](https://jakubn.gitlab.io/mistake2microservices/#1), [Video@GeeconPrague](https://www.youtube.com/watch?v=6H3mSY1AJ1k&t=12s), [Video@Confitura](https://www.youtube.com/watch?v=jo46-CP6ywU&t=760s), [Video@SegFault](https://www.youtube.com/watch?v=8zKuvyhKroQ&t=5s), [Video@KJUG](https://www.youtube.com/watch?v=PSZ2jJRTP3I), [Video@DevTernity](https://www.youtube.com/watch?v=sXIvrgTtmZE&t=10s), [Video@JDD](https://www.youtube.com/watch?v=Ei64m2rrhv4&t=1719s), [Video@JSanta](https://www.youtube.com/watch?v=Qxa4Aay-nYw), [Video@DevOpsProE](https://www.youtube.com/watch?v=9CfABzQd6Mc), [Video@4Developers](https://www.youtube.com/watch?v=uL6EYqN17Oo&feature=youtu.be)
+[Slides](https://jakubn.gitlab.io/mistake2microservices/#1), [Video@GeeconPrague](https://www.youtube.com/watch?v=6H3mSY1AJ1k), [Video@Confitura](https://www.youtube.com/watch?v=jo46-CP6ywU), [Video@SegFault](https://www.youtube.com/watch?v=8zKuvyhKroQ), [Video@KJUG](https://www.youtube.com/watch?v=PSZ2jJRTP3I), [Video@DevTernity](https://www.youtube.com/watch?v=sXIvrgTtmZE), [Video@JDD](https://www.youtube.com/watch?v=Ei64m2rrhv4), [Video@JSanta](https://www.youtube.com/watch?v=Qxa4Aay-nYw), [Video@DevOpsProE](https://www.youtube.com/watch?v=9CfABzQd6Mc), [Video@4Developers](https://www.youtube.com/watch?v=uL6EYqN17Oo&feature=youtu.be)
 
 ### Improving your Test Driven Development in 45 minutes 
 
@@ -32,19 +32,19 @@ I use TDD since 2005, and I've been teaching BDD/TDD for several years now, so I
 
 On Java package-scope visibility, hexagonal architecture (ports&adapters) and modularity
 
-[Slides](https://jakubn.gitlab.io/keepitclean), [Video@Confitura](https://www.youtube.com/watch?v=ma15iBQpmHU&t=613s), [Video@AJLabs](https://www.youtube.com/watch?v=5Q8kiSN6390&t=1113s), [Video@TorunJUG](https://www.youtube.com/watch?v=KO6K3_Ac54M), [Video@SilesiaJUG](https://www.youtube.com/watch?v=kW-k9UXhGqw&t=1526s)
+[Slides](https://jakubn.gitlab.io/keepitclean), [Video@IstanbulTT](https://www.youtube.com/watch?v=sOaS83Ir8Ck)[Video@Confitura](https://www.youtube.com/watch?v=ma15iBQpmHU), [Video@AJLabs](https://www.youtube.com/watch?v=5Q8kiSN6390), [Video@TorunJUG](https://www.youtube.com/watch?v=KO6K3_Ac54M), [Video@SilesiaJUG](https://www.youtube.com/watch?v=kW-k9UXhGqw)
 
 ### Peer-2-Peer Salary Review
 
 A case study for a how I solved the problem of setting up salaries for an IT department
 
-[Article](https://jakubnabrdalik.github.io/P2P-Salary-review/), [Video@WJUG](https://www.youtube.com/watch?v=odrean5ShZQ&t=8s), [Video@AceConference](https://www.youtube.com/watch?v=hIkNRCQaGBg), [Video@DevTernity](https://www.youtube.com/watch?v=vQMYjpjpelg), [Video@ABE15](https://www.youtube.com/watch?v=qlpAAxCtEgg)
+[Article](https://jakubnabrdalik.github.io/P2P-Salary-review/), [Video@WJUG](https://www.youtube.com/watch?v=odrean5ShZQ), [Video@AceConference](https://www.youtube.com/watch?v=hIkNRCQaGBg), [Video@DevTernity](https://www.youtube.com/watch?v=vQMYjpjpelg), [Video@ABE15](https://www.youtube.com/watch?v=qlpAAxCtEgg)
 
 ### User Stories considered harmful
 
 Why Product Owners and Developers failed at gathering requirements and communication. The lost art of analysis and testing scenarios. A talk about gathering requirements, use cases, behavioural acceptance scenarios and TDD/BDD
 
-[Slides](https://docs.google.com/presentation/d/1VhDuWbCbdbOwdB1GG9Jxf9OfGq0OKfsRmLDPlWxgrSk/edit?usp=sharing), [Video@DevoxxPL](https://www.youtube.com/watch?v=2df8_PHJuzk), [Video@WJUG](https://www.youtube.com/watch?v=ATZ0GEMSivM&t=3720s), [Video@AgileByExample](https://www.youtube.com/watch?v=aKa6xogoztM), [Video@ITT2018](https://www.youtube.com/watch?v=jnox2eCJoL0)
+[Slides](https://docs.google.com/presentation/d/1VhDuWbCbdbOwdB1GG9Jxf9OfGq0OKfsRmLDPlWxgrSk/edit?usp=sharing), [Video@DevoxxPL](https://www.youtube.com/watch?v=2df8_PHJuzk), [Video@WJUG](https://www.youtube.com/watch?v=ATZ0GEMSivM), [Video@AgileByExample](https://www.youtube.com/watch?v=aKa6xogoztM), [Video@ITT2018](https://www.youtube.com/watch?v=jnox2eCJoL0)
 
 ### Requirements & BDD: The lost art of analysis and acceptance scenarios
 
@@ -56,7 +56,7 @@ A different take on "User Stories considered harmful"
 
 In 2012 I gave the first summary of errors with TDD/BDD (having 7 years of experience at that point). For an up-to-date version see the "Improving your Test Driven Development" talk.
 
-[Video@Confitura](https://www.youtube.com/watch?v=wbAtJlbRhbQ&t=6s)
+[Video@Confitura](https://www.youtube.com/watch?v=wbAtJlbRhbQ)
 
 ### Creating a knowledge-sharing culture
 
@@ -70,7 +70,7 @@ Because your really need it
 
 ### eXtreme Programming for beginners
 
-[Video@ABE](https://www.youtube.com/watch?v=RUlsNnzFWy8&t=1504s)
+[Video@ABE](https://www.youtube.com/watch?v=RUlsNnzFWy8)
 
 --------
 
