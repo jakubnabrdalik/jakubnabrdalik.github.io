@@ -6,7 +6,7 @@ permalink: /talks/
 
 Apart from regular work, I go to a lot of conferences, meetings, hackathons, and alike, for inspiration and knowledge. At some point I started giving talks and leading workshops myself. Each talk requires a lot of research, so it helps me to get better, while helping others as well. Pure win-win situation. 
 
-So far I've given 105 talks. Not bad for a hobby. Below you will find some of them.
+So far I've given 113 talks. Not bad for a hobby. Below you will find some of them.
 
 --------
 
