@@ -6,9 +6,23 @@ permalink: /talks/
 
 Apart from regular work, I go to a lot of conferences, meetings, hackathons, and alike, for inspiration and knowledge. At some point I started giving talks and leading workshops myself. Each talk requires a lot of research, so it helps me to get better, while helping others as well. Pure win-win situation. 
 
-So far I've given 113 talks. Not bad for a hobby. Below you will find some of them.
+So far I've given 127 talks. Not bad for a hobby. Below you will find some of them.
 
 --------
+
+### Best practices in practice: things that work for me so well I cannot believe you are not using it
+
+There's a lot of "best practices" around, but after 19 years of work I've found a set that really helps get my systems done well. I'd like to share those tools and methods and why they work in my context. While they are not a novelty (some of them have years of history), I see even experienced developers ignoring them. These include: how to use BDD to work with requirements, using a scientific method to fix problems in production (as opposed to shotgun debugging), verifying observability during development (before going to production), making the most interesting parts visible via higher order functions, and more. Nothing groundbreaking, but perhaps those will also work in your context.
+
+[Slides@Confitura](https://jakubn.gitlab.io/bestpracticesinpractice/#1), [Slides@DevTernity](https://jakubn.gitlab.io/bestpracticesinpractice/#1)
+
+## What I wish I knew when I started designing systems years ago
+
+I started designing systems (also known as: architecture) 18 years ago. I'm not very smart, so I've made a lot of mistakes on the way. Surprisingly it turned out these are quite common. I'd like to share a few things I’ve learned that would save me a lot of tears, had I known better back then. I’ll talk about communication styles, modularity, SLA, invariants and events, choreography vs orchestration, single point of truth vs data ownership, products vs projects.
+
+This talk is for people starting with software architecture.
+
+[Slides](https://jakubn.gitlab.io/wish-i-knew-architecture/#1), [Video@DevoxxPL](https://www.youtube.com/watch?v=4Iqjhi3kusY), [Video@JDD](https://www.youtube.com/watch?v=OX0HHHhiapQ), [Video@Developers World Academy](https://www.youtube.com/watch?v=1HJJhGHC2A4), [Video@Silesia JUG](https://www.youtube.com/watch?v=Q1bQcu_lFCk)
 
 ### With a little help from my friends: architecture in a group of anarchists
 
