@@ -8,7 +8,7 @@ I have given commercial workshops for developers since 2012, most of them via [B
 
 My focus is on Software Architecture, Test/Behavior Driven Development, Domain Driven Design, Spring, Reactive Programming and craftsmanship.
 
-With 197 commercial workshops so far, 1-5 days long, on-line and on-site in Europe, Africa and Asia, plus another dozen for free, I feel I cannot call it a hobby anymore. Let's call it "my side project".
+With 208 commercial workshops so far, 1-5 days long, on-line and on-site in Europe, Africa and Asia, plus another dozen for free, I feel I cannot call it a hobby anymore. Let's call it "my side project".
 
 Below you'll find details of some of them. All available in English and Polish.
 

@@ -6,9 +6,37 @@ permalink: /talks/
 
 Apart from regular work, I go to a lot of conferences, meetings, hackathons, and alike, for inspiration and knowledge. At some point I started giving talks and leading workshops myself. Each talk requires a lot of research, so it helps me to get better, while helping others as well. Pure win-win situation. 
 
-So far I've given 127 talks. Not bad for a hobby. Below you will find some of them.
+So far I've given 136 talks. Not bad for a hobby. Below you will find some of them.
 
 --------
+
+### Why nobody sane builds a large monolithic system today
+
+There are architects that suggest starting every system with a monolith.
+
+That is a harmful suggestion, you need to understand what microservices and monoliths require, why microservices were invented and what problems they solve.
+
+After working for 12 years with monolithic systems and 8 years with microservices I'd like to give you some insight into when to use microservices, and when it's pointless. 
+
+In addition I'll talk about:
+- why for 38 years companies struggled to build large systems, and why Fred Brooks can finally rest in peace
+- how Ken Thompson and Dennis Ritche easily solved the problem which costed IBM millions of dollars
+- why developers get insane and burn out, and why the next generation will be much healthier
+- why for some companies building large systems is easy, and gets easier every month. It also does not require any pain or blood spilled
+- why your company is getting on your nerves and why your manager struggles with the concept of autonomous teams
+- what are the PREREQUISITES for a company to benefit from microservices
+- simple heuristics when to build which kind of the system
+
+[Video@DDD-WAW](https://www.youtube.com/watch?v=1pBOUa4vX0w)
+
+### How to NOT get insane when working for 20 years as a dev - personal mental health tricks.
+
+I've been designing and building software for the last 20 years, and in that time I've lost a lot of friends due to burnout and depression. A lot of others have moved to management, become POs, Scrum Masters or full-time celebrities. When talking with them most say that writing software became too difficult for them. Which is strange, because from my perspective, programming is much easier than 20 years ago.
+
+I'm not a psychologist, I have no proper education or skills to help you out, but I've survived 20 years, and I'm no more insane than I was back then, so maybe I can tell you what have helped me survive, and be even more happy in a software dev job. If it helps one person not become a manager, I'll consider my job done.
+
+[Video@Confitura](https://www.youtube.com/watch?v=PabarutaU6I), [Slides@Confitura](https://jakubn.gitlab.io/howtonotgetinsane/)
+
 
 ### Best practices in practice: things that work for me so well I cannot believe you are not using it
 
