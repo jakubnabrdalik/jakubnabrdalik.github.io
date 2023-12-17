@@ -46,6 +46,47 @@ Finally, how large heterogeneous systems work in real life, and which style is t
 
 --------
 
+## Microservices: culture, management, organization
+
+Duration: 2 days.
+
+In 2012 Thoughtworks, by introducing microservices, sped up the process of building large software systems by an order of magnitude, breaking Fred Brooks law and problems of large projects from the previous 38 years. Due to that, companies like Amazon (AWS) say the bigger they grow, the easier it is to bring new features to the end-user. Achieving this requires a set of cultural and management changes, a completely different approach to teams, architecture and testing. There's a lot of companies that were able to replicate it, and there's even more that failed on the way.
+
+This workshop is aimed at managers. We go through all the best practices that enable this transformation, and mistakes that will stop you from getting any benefits. All of them with real world examples.
+
+We will answer those questions
+- How do we set up new products and teams?
+- How do we handle cross-product projects & problems?
+- How do we handle architecture on a large scale?
+- How do we make estimations and plan work?
+- How do we evaluate teams and people?
+- How do we hire new people?
+- How do we test such a system? 
+- Why you cannot use ESB and what is an ESB good for today?
+- Why shouldn't you build generic microservices on the first try?
+- Why should you avoid mono-repo?
+- Team composition: How many junior devs per team? What's a senior?
+- What's a platform? Types of teams (team topologies)?
+- Optimizing for cognitive load: what's the size of a product/microservices/module?
+- How to set up on-duty and what happens to support?
+- How event driven microservices handle errors?
+- Organization structure: how many bugs will you have in production?
+
+And we will also cover those topics
+- FinSecDevOps
+- Cynefin framework: types of problems and decisions
+- Continuous Deployment - how it's done, and what to do with old monoliths
+- Migration to microservices: strangler pattern
+- Resiliency
+- Tailored Service Template
+- Typical errors in architecture
+- When the product team says no
+- Orchestration & choreography, context mapping
+
+At the end of this workshop, you will know everything you need, to make people go faster the bigger the system gets.
+
+--------
+
 ## Well designed applications in Spring framework
 
 Duration: 3 days.
