@@ -34,13 +34,13 @@ Tools and notations: C4 Model, Sequence diagrams, diagram as code.
 
 How do we verify the architecture. ArchUnit. Consumer Driven Contracts
 
-What drives architecture, and what can you optimize for. What are the consequences of each optimization. How to calculte SLA, availability, maintenability, flexibility etc. Trade-offs.
+What drives architecture, and what can you optimize for. What are the consequences of each optimization. How to calculate SLA, availability, maintainability, flexibility etc. Trade-offs.
 
-How to design a modular monolith. What are modules. What are the benfits and when you should never use it. How to deal with high risk of deployment. How to change your thinking about modules (moving from data oriented to process oriented). Large exercise in design.
+How to design a modular monolith. What are modules. What are the benefits and when you should never use it. How to deal with high risk of deployment. How to change your thinking about modules (moving from data oriented to process oriented). Large exercise in design.
 
 How to design a synchronous, distributed system, a.k.a microservices. How do we test distributed systems in practice. How to deal with networking disefficiences. Communication and control: Orchestration versus Choreography. Why Saga is just both a pattern and an antipattern. How to use it the right way. How do we deal with errors. How to provide performance. Data locality and read models. How to optimize for high SLA, and what does SLA even mean in a distributed system. Typical errors in designing such systems.
 
-How to design an Event Driven system. What are the 3 different types of messages you can send. How do process streams, ensure ordering, deal with multiple consumers and producers. How Kafka works internally, and what a persistent transaction log allows us to easily design. Topics, partitions, consumer groups, compacted topics and read models, transactional publishing. When should we use all of that, and when a synchronous communication makes more sense. Typical errors in desigin such systems.
+How to design an Event Driven system. What are the 3 different types of messages you can send. How do process streams, ensure ordering, deal with multiple consumers and producers. How Kafka works internally, and what a persistent transaction log allows us to easily design. Topics, partitions, consumer groups, compacted topics and read models, transactional publishing. When should we use all of that, and when a synchronous communication make more sense. Typical errors when designing such a systems.
 
 Finally, how large heterogeneous systems work in real life, and which style is the best when.
 
