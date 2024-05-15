@@ -10,6 +10,25 @@ So far I've given 136 talks. Not bad for a hobby. Below you will find some of th
 
 --------
 
+### Migrate your company to microservices: a step by step tutorial
+
+I’ve worked with microservices for 9 years now, and I’ve migrated systems from monoliths / distributed monoliths to microservices. Companies call me to help them in this process, and I kind of worked my “standard” way of how to do this. In this talk, I’d like to show you step by step what I do when I help companies moving into microservices. 
+
+This talk is not about how to design microservices per se (I’ve already talked about it a lot, and I give workshops on that) but what exactly I do in the process, and what you should not forget about. So it’s everything apart from architecture itself. 
+
+I’ll talk about: 
+- how (much) to design the initial architecture
+- how to build an easy to use tailored service template
+- what you need in pipelines
+- how to test the system
+- what security changes are required
+- how to teach observability
+- how to introduce product teams and a culture to get the most of microservices (and what happens if you don’t). 
+
+Of course every company is a bit different and this is not the only way to do it, but if I show you what it usually means for me perhaps you will find something you didn’t take into account in your process, if you are ever in such a situation. And if you are currently working with monolith (distributed or not), this may be really useful.
+
+[Slides](https://jakubn.gitlab.io/migrate2microservicesstepbystep)
+
 ### Why nobody sane builds a large monolithic system today
 
 There are architects that suggest starting every system with a monolith.
@@ -119,6 +138,31 @@ Because your really need it
 ## Activity log
 
 Here I keep a list of events and activities, to keep me motivated and remind me, I actually had some social life apart from software development.
+
+### 2024
+
+*Migrate your company to microservices: a step by step tutorial* - Given at 4Developers, Geecon, IT-Konekt, javeloper
+
+CodingFestival
+
+### 2023
+
+*Why nobody sane builds a large monolithic system today* - Given at DDD-Warsaw
+
+*What I wish I knew when I started designing systems years ago* - Given at CodingFestival
+
+*Best practices in practice: things that work for me so well I cannot believe you are not using them* - Given at Craft-IT Rzeszów, I love dev in Warsaw, MS Tech Summit, Warsaw Java User Group, 4Developers
+
+*How to NOT get insane when working for 20 years as a dev - personal mental health tricks.* - Given at Confitura
+
+*Hexagonal architecture interview* - at Better Software Design
+
+
+### 2022 ###
+
+*What I wish I knew when I started designing systems years ago* - DevTernity 
+
+*Refactoring from monolith to microservices* - Nerguru, Asseco
 
 ### 2020
 
