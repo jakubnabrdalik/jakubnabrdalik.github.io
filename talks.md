@@ -153,16 +153,23 @@ CodingFestival
 
 *Best practices in practice: things that work for me so well I cannot believe you are not using them* - Given at Craft-IT Rzeszów, I love dev in Warsaw, MS Tech Summit, Warsaw Java User Group, 4Developers
 
-*How to NOT get insane when working for 20 years as a dev - personal mental health tricks.* - Given at Confitura
-
 *Hexagonal architecture interview* - at Better Software Design
 
+### 2022
 
-### 2022 ###
-
-*What I wish I knew when I started designing systems years ago* - DevTernity 
+*How to NOT get insane when working for 20 years as a dev - personal mental health tricks.* - Given at Confitura
 
 *Refactoring from monolith to microservices* - Nerguru, Asseco
+
+*Malevolent Architect: only bad decisions* - Closing keynote at Geecon
+
+*Developer w świecie mikroserwisów: W co warto pakować swój czas, by mieć aktualny skillset* - at Warszawskie Dni Informatyki
+
+*What I wish I knew when I started designing systems years ago* - Given at Devflix
+
+### 2021
+
+*What I wish I knew when I started designing systems years ago* - at JDD, Devternity, 4Developers, Warszawskie Dni Informatyki, Bydgoszcz JUG
 
 ### 2020
 
