@@ -38,7 +38,7 @@ I'm not a psychologist, I have no proper education or skills to help you out, bu
 [Video@Confitura](https://www.youtube.com/watch?v=PabarutaU6I), [Slides@Confitura](https://jakubn.gitlab.io/howtonotgetinsane/)
 
 
-### Best practices in practice: things that work for me so well I cannot believe you are not using it
+### Best practices in practice: things that work for me so well I cannot believe you are not using them
 
 There's a lot of "best practices" around, but after 19 years of work I've found a set that really helps get my systems done well. I'd like to share those tools and methods and why they work in my context. While they are not a novelty (some of them have years of history), I see even experienced developers ignoring them. These include: how to use BDD to work with requirements, using a scientific method to fix problems in production (as opposed to shotgun debugging), verifying observability during development (before going to production), making the most interesting parts visible via higher order functions, and more. Nothing groundbreaking, but perhaps those will also work in your context.
 
